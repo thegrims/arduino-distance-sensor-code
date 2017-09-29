@@ -1,4 +1,4 @@
-# arduino-distance-sensor-code
+# Hweekend arduino powered distance sensor
 
 During the Fall Hweekend of 2016, I collaborated with some folks in the school of EECS and MIME to make this arduino powered distance sensor. The intended use case would be for blind or sight impaired people, but we really just developed it for fun! 
 
