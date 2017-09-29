@@ -8,4 +8,6 @@ The pwm output is sent to an H-bridge motor driver, which drives four different 
 
 The closer the ultrasonic sensors get to a solid object, the more they vibrate, creating a non visual feedback mechanism for depth.
 
+***
+
 ![alt text](https://raw.githubusercontent.com/thegrims/arduino-distance-sensor-code/master/hweekend_sensor.jpg)
