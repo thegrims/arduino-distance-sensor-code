@@ -10,4 +10,4 @@ The closer the ultrasonic sensors get to a solid object, the more they vibrate, 
 
 ***
 
-![alt text](https://raw.githubusercontent.com/thegrims/arduino-distance-sensor-code/master/hweekend_sensor.jpg)
+![alt text](https://raw.githubusercontent.com/thegrims/arduino-distance-sensor-code/master/media/hweekend_sensor.jpg)
